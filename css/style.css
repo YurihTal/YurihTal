@@ -138,7 +138,7 @@ figure figcaption {
 	width: 300px;
 	position: fixed;
 	z-index: 1001;
-	background-color: #f9bf3f;
+	background-color: #64f93f;
 	-webkit-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
@@ -168,6 +168,7 @@ figure figcaption {
 	height: auto;
 }
 #colorlib-aside .author-img {
+	max-width: fit-content;
 	height: 120px;
 	margin-left: 0;
 	margin-bottom: 30px;
@@ -179,9 +180,9 @@ figure figcaption {
 }
 
 #colorlib-aside .author-img img {
+	background-size:contain;
 	background-position: center;
 	background-repeat: no-repeat;
-    background-size:contain;
 	position: relative;
 }
 #colorlib-aside h1 {
