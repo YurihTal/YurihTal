@@ -102,7 +102,7 @@ export const experience = [
     title: "Better Marble",
     duration: "May 2022 - Present",
     subtitle: "Account Manager/Sales",
-    details: [●
+    details: [
       "Managed a portfolio of key accounts, fostering strong relationships and ensuring client satisfaction" ,
       "Developed and executed strategic account plans, driving revenue growth and achieving sale targets" ,
       "Acted as the primary point of contact for all fabricators from the North, addressing inquiries, resolving issues, and providing exceptional service" ,
