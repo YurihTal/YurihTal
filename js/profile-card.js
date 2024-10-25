@@ -1,4 +1,4 @@
-window.addEventListener("DOMContentLoaded", async function () {
+window.addEventListener("DOMContentLoaded", async function())
     async function get(url) {
         const resp = await fetch(url);
         return resp.json();

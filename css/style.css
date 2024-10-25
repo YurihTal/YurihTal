@@ -516,7 +516,7 @@ body.offcanvas #colorlib-aside {
 	-o-transform: translateX(0);
 	transform: translateX(0);
 	width: 372px;
-	background-color: #f9bf3f;
+	background-color: rgba(3, 108, 61, 0.856);
 	z-index: 999;
 	position: fixed;
 }
@@ -2056,7 +2056,7 @@ ul {
 
 .submenu {
 	display: none;
-	background: #f9bf3f;
+	background: rgba(3, 108, 61, 0.856)
 	font-size: 14px;
 	padding-left: 0px;
 	padding-top: 10px;
