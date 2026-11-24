@@ -11,11 +11,11 @@ From G-code to LLMs: I program and run 5-axis CNC machines to ±0.05 mm, and I b
 
 | Project | What it is | Link |
 |---|---|---|
-| **ECHO** | Local-first, voice-enabled AI desktop assistant: wake word, on-device speech, model router (Claude → Groq → Ollama), approval-based guardrails. Tauri 2 + React + Python. | [Case study](https://yurihtal.github.io/echo/) |
-| **Life Planner** | Keyboard-first desktop planner that turns 12-week goals into realistic daily time blocks, with humane habit scoring. Electron + React + SQLite. | [Showcase](https://github.com/YurihTal/life-planner-showcase) |
-| **AquaVerse** | Aquarium planning and care app: compatibility engine, nitrogen-cycle assistant, water-test trends. React + Vite. | [Try it](https://yurihtal.github.io/aquaverse-site/) |
-| **AXIOM** | Self-hosted multi-agent AI system that plans, builds and reviews software, with cross-model code review. Next.js + PostgreSQL + Ollama. | [Overview](https://yurihtal.github.io/#software) |
-| **InBrasil Canada** | Bilingual (EN/FR) 94-page product site with a deck estimator, 3D previews and automated accessibility tests. | [Visit](https://yurihtal.github.io/inBrasil-site/) |
+| **ECHO** | Local-first AI desktop assistant: LLM router (Claude → Groq → Ollama), MCP tool use with approval gates, on-device voice, RAG search, prompt-injection defence. Tauri · React · Python/FastAPI. | [Case study](https://yurihtal.github.io/echo/) · [Screens](https://github.com/YurihTal/echo-showcase) |
+| **AXIOM** | Self-hosted multi-agent AI platform: seven role-based agents, cross-model code review (Claude · Ollama · GPT-4o-mini), job queue, approve-before-merge workflow. Next.js · PostgreSQL · pg-boss. | [Overview](https://yurihtal.github.io/#software) |
+| **Life Planner** | Local-first desktop planner: goal-to-time-block planning, adaptive duration estimates, behavioural habit engine, sync-ready SQLite (hybrid logical clocks). Electron · React. | [Showcase](https://github.com/YurihTal/life-planner-showcase) |
+| **AquaVerse** | Aquarium planning web app: rules-based compatibility engine, pH- and temperature-adjusted ammonia grading, water analytics. React · Vite · Zustand. | [Try it](https://yurihtal.github.io/aquaverse-site/) |
+| **InBrasil Canada** | Bilingual (EN/FR) 94-page product site: static generation from a Shopify theme, 3D previews, deck estimator, WCAG 2.1 AA tests, CI/CD. | [Visit](https://yurihtal.github.io/inBrasil-site/) |
 
 ---
 
